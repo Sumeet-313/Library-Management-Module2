@@ -1,0 +1,91 @@
+body{
+background:#F5F5F5;
+}
+
+.home
+{
+padding: 5px;
+}
+
+.header {
+background: #DBDBDB;
+width:100%;
+}
+
+.header table
+{
+width: 100%;
+}
+
+.footer{
+background: #DBDBDB;
+width:100%;
+padding:10px;
+text-align:center;
+}
+
+.error{
+color:red;
+}
+
+.evenRow
+{
+background: #DDDDDD;
+}
+
+.oddRow
+{
+background : #F5F5F5;
+}
+
+.author-list {
+border:1px solid black;
+}
+.author-list tr td {
+border:1px solid black;
+text-align: right;
+}
+.author-list tr td + td{
+border:1px solid black;
+text-align: left;
+}
+
+.author-list tr td + td + td{
+border:1px solid black;
+text-align: right;
+}
+.book-list {
+border:1px solid black;
+}
+.book-list tr td {
+border:1px solid black;
+text-align: right;
+}
+.book-list tr td + td{
+border:1px solid black;
+text-align: left;
+}
+.book-list tr td + td + td{
+border:1px solid black;
+text-align: right;
+}
+.book-list tr td + td + td + td{
+border:1px solid black;
+text-align: left;
+}
+.book-list tr td + td + td + td + td{
+border:1px solid black;
+text-align: left;
+}
+.book-list tr td + td + td + td + td + td{
+border:1px solid black;
+text-align: right;
+}
+.book-list tr td + td + td + td + td + td + td{
+border:1px solid black;
+text-align: center;
+}
+.book-list tr td + td + td + td + td + td + td + td{
+border:1px solid black;
+text-align: center;
+}
